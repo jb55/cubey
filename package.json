@@ -1,0 +1,17 @@
+{
+  "name": "cubey",
+  "description": "Cubey CubeWorld server",
+  "version": "0.0.0",
+  "keywords": ["cubeworld", "cubey", "cube"]
+  "repository": {
+    "url": "git://github.com/jb55/cubey.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.2.5"
+  }
+}
